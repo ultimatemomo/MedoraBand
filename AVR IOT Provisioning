@@ -1,0 +1,7 @@
+PS C:\Users\mypc> cd "C:\Users\mypc\windows64">.\iotprovision-bin.exe
+PS C:\Users\mypc\windows64> aws configure
+AWS Access Key ID [***********]: [ //Enter your ID Here ]
+AWS Secret Access Key [***********]: [//Enter access key here]
+Default region name [ap-xxxxx]: //enter your desired region in []
+Default output format [None]:
+PS C:\Users\mypc\windows64> .\iotprovision-bin.exe -c aws -m mar --force
