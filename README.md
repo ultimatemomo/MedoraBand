@@ -8,6 +8,7 @@ MedoraBand is a smart wearable for  geriatric care.
 
 <br>Specially during these times of pandemic and uncertainty, where the world is confined into a seemingly perpetual virtual state, this technological gap takes a greater toll on not just the elderly, but also their kith and kin –us. With more and more people stuck at different places, with technology and telecommunications the only connect with family and friends, it is becoming increasingly difficult to monitor the health of your elderly loved ones, specially taking into account that they are the most affected demographic in any health threatening event.
 
+
 <br>Technologies like smart watches, health trackers do exist that offer some level of remote tracking, but they are either too expensive, require pairing with specific mobile phones or are not easy to set up.
 
 <br>To mitigate these problems and provide a holistic, stand alone tracker that lets you track the health status of the elderly at your home remotely, we propose MedoraBand.
@@ -20,8 +21,10 @@ MedoraBand aims to provide an easy to use and integrated health tracking for you
 <br>a. Small and compact form factor that is non-obtrusive to wear, and easy to use. 
 <br>b. Long battery life due to low power consumption and larger battery bank. 
 <br>c. 24x7 remote tracking of health conditions of elderly people through a simple UI. 
-<br>d. Notification alerts for health conditions/anomaly <br>e. Active motion and fall detection –get to know if the person has fallen down. <br>f. 24x7 temperature monitoring <br>g. tinyML supported to detect anomaly in usual pattern. <br>h. Extremely customizable components –components can be handpicked, if required, and the device can be made as specific to the cause as possible. <br>i. A dedicated SOS button that the elderly user can press anytime if immediate assistance is required.
+<br>d. Notification alerts for health conditions/anomaly <br>e. Active motion and fall detection –get to know if the person has fallen down. <br>f. 24x7 temperature monitoring <br>g. tinyML supported to detect anomaly in usual pattern. <br>h. Extremely customizable components –components can be handpicked, if required, and the device can be made as specific to the cause as possible.
+![WhatsApp Image 2021-09-17 at 11 45 10 PM](https://user-images.githubusercontent.com/45312302/133859326-f5db819c-801b-46f3-9534-dd66f282e3be.jpeg)
 
+Note: To download design files (Fusion 360), find the design page in the repo or follow the link : [https://a360.co/3kjmVGO]
 <h1><p><b>iii) Build, technologies used and working:</b></p></h1>
 The wearable consists of a low cost microcontroller –like the Arduino Nano 33 BLE sense, AVR IOT or Raspberry Pi Pico as the “Brain” of the machine. Customizable sensor arrays are housed in a 3D printed and lightweight casing, alongwith the controller board.
 
